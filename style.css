@@ -13,7 +13,7 @@ body{
     left: 60px;
 }
 .campoPesquisa input{
-    position: absolute;
+    position: relative;
     height: 1000px;
     width: 2500px;
     left: 50%;
