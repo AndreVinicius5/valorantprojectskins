@@ -13,11 +13,11 @@ body{
     left: 60px;
 }
 .campoPesquisa input{
-    position: relative;
-    height: 40px;
-    width: 500px;
-    left: 50%;
-    top: 55px;
-    border-radius: 5px;
+        position: relative;
+        height: 36px;
+        width: 2500px;
+        left: 50%;
+        top: 15px;
+        border-radius: 5px;
 }
 
