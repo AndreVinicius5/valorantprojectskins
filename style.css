@@ -13,9 +13,9 @@ body{
     left: 60px;
 }
 .campoPesquisa input{
+    width: 500px;
         position: relative;
         height: 36px;
-        width: 500px;
         left: 550px;
         top: 15px;
         border-radius: 5px;
