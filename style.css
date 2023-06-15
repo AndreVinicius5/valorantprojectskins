@@ -13,6 +13,7 @@ body{
     left: 60px;
 }
 .campoPesquisa{
+    position: absolute;
     height: 100px;
     width: 25px;
     left: 50%;
