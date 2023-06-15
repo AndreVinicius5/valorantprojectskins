@@ -22,3 +22,8 @@ body{
          /* asdasd*/
 }
 
+.loguin p{
+    position: absolute;
+    left: 100px;
+    top: 15px;
+ }
