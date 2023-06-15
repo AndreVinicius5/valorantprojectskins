@@ -19,10 +19,9 @@ body{
         left: 550px;
         top: 15px;
         border-radius: 5px;
-         /* asdasd*/
 }
 
-.loguin p{
+.loguin a{
     position: absolute;
     left: 100px;
     top: 15px;
