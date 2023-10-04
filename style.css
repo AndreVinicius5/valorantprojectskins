@@ -13,6 +13,7 @@ ul {
     text-decoration: none;
 }
 .barraPesquisa{
+    padding: 0px;
     position: absolute;
     width: 100%;
     height: 80px;
